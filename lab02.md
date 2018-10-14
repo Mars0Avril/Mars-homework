@@ -26,10 +26,8 @@
 ![](images/选择behavior.png)
 ### 同理，再加入“scroll to"（滚动）和“bound to layout”（限制在布局中）。
 ### 再如法炮制，给子弹添加Bullet movement （向前运动）与 Destroy outside layout（离开布局后消失）动作，给爆炸添加Fade（渐隐）动作，给怪物添加Bullet movement动作。
-### 在界面左上方的菜单栏中，点击run的图标，一个小三角。
+## 要运行游戏，在界面左上方的菜单栏中，点击run的图标，一个小三角。
 ![](images/run.png)
 ## 这样，我们就可以在浏览器上概览我们游戏的大体了！
 ### 转向和运动示例：
-
-
 ![](images/怪物猎人.gif)
